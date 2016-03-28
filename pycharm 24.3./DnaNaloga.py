@@ -29,4 +29,4 @@ print dna.count("AAAACCTCA")                          # Belec:1 #
 print dna.count("CGACTACAG")  # Crnec:0 #
 print dna.count("CGCGGGCCG")  # Azijec:0 #
 
-# profil ustreza: belec, moski, zelene oci, kvadratne oblike obraza, rjave barve las. #
+# profil ustreza: belec, moski, zelene oci, kvadratne oblike obraza, rjave barve las #
